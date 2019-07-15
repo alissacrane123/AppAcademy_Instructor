@@ -1,0 +1,14 @@
+DATA STRUCTURE
+- way of storing and organizing data
+
+TREES
+- store hierarchy of layers
+- an ele (node) at each layer can have links to lower levels
+- ex: file system
+
+NODES
+- top level node is the `root`
+- each node holds a value
+- `children` of nodes are nodes one level deeper
+- lowest level nodes have no children and are called `leaves`
+
